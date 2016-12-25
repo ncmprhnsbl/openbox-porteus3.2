@@ -1,7 +1,7 @@
 1.This module is made using the 003-xfce4.xzm and tools from porteus-3.2. as root user.
 2.Extract the 003-xfce4.xzm module in a posix filesystem.
 3.Rename it 003-box (or whatevers convenient)
-4.Run: # ROOT=/path/to/build/directory/003-box removepkg xfburn xfce4-appfinder xfce4-battery-plugin xfce4-clipman-plugin xfce4-cpufreq-plugin xfce4-cpugraph-plugin xfce4-dev-tools xfce4-mailwatch-plugin xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-power-manager xfce4-pulseaudio-plugin xfce4-screenshooter xfce4-sensors-plugin xfce4-session xfce4-settings xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-weather-plugin xfce4-whiskermenu-plugin xfce4-xkb-plugin xfconf xfdesktop xfwm4 thunar-volman mousepad gtk-xfce-engine gthumb Thunar libxfce4ui libxfce4util keybinder exo wxgtk garcon 
+4.Run: # ROOT=/path/to/build/directory/003-box removepkg xfburn xfce4-appfinder xfce4-battery-plugin xfce4-clipman-plugin xfce4-cpufreq-plugin xfce4-cpugraph-plugin xfce4-dev-tools xfce4-mailwatch-plugin xfce4-notes-plugin xfce4-notifyd xfce4-panel xfce4-power-manager xfce4-pulseaudio-plugin xfce4-screenshooter xfce4-sensors-plugin xfce4-session xfce4-settings xfce4-systemload-plugin xfce4-taskmanager xfce4-terminal xfce4-weather-plugin xfce4-whiskermenu-plugin xfce4-xkb-plugin xfconf xfdesktop xfwm4 thunar-volman mousepad gtk-xfce-engine gthumb Thunar libxfce4ui libxfce4util keybinder exo garcon 
 5.Obtain the packages listed in PKGS(or your own preferences)and place them there.
 6. # cd /path/to/PKGS/
 7.Run: # installpkg --terse --root /mnt/sda6/Porteus3.2/Build/003-box *.t?z (for txz/tgz packages)
