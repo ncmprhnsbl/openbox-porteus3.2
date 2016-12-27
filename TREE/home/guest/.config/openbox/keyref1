@@ -35,6 +35,8 @@
           
 <!-- Keybindings for utilities -------------------------------------->
 
+    "W-r" Reconfigure openbox
+
     "Print"
          Take a screenshot with a save dialog
          command> /opt/porteus-scripts/extra/gtk-scrot -s
